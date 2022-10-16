@@ -1,0 +1,23 @@
+{
+  "name": "foodie",
+  "version": "1.0.0",
+  "description": "Backend for food app",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "client": "cd frontend && expo start --dev-client",
+    "dev": "concurrently \"npm run start\" \"npm run client\""
+  },
+  "author": "Ayush kumar",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "firebase-admin": "^11.0.1",
+    "nodemon": "^2.0.20",
+    "serverless-http": "^3.0.2"
+  }
+}
