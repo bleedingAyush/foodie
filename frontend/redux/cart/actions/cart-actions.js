@@ -90,7 +90,7 @@ export const postOrder = (cartData, deliveryCharge) => {
         deliveryCharge,
       }),
     };
-    fetch("https://foodie.messagely.tech/order", requestOptions)
+    fetch(`${process.env.API_URL}/order`, requestOptions)
       .then((response) => {
         if (response.ok) {
           return response.json();
