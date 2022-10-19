@@ -45,8 +45,11 @@ Initialize the project with eas-build [Learn more](https://docs.expo.dev/build/i
 To run firebase-admin on a custom server you need to give it certain keys. I have listed them below. Read this medium article to [learn more](https://medium.com/litslink/firebase-admin-sdk-basics-in-examples-ee7e009a1116)
 
 **PROJECT_ID**: Firebase project id
+
 **PRIVATE_KEY**: Firebase private key
+
 **CLIENT_EMAIL**: Firebase client email
+
 **DATABASE_URL**: Firebase database url
 
 **Frontend**
