@@ -34,7 +34,7 @@ Install dependencies
   npm run install-packages
 ```
 
-Register at [Expo](https://expo.io/) and [Firebase](https://firebase.google.com/)
+Register for an account at [Expo](https://expo.io/) and [Firebase](https://firebase.google.com/)
 
 Initialize the project with eas-build [Learn more](https://docs.expo.dev/build/introduction/)
 
