@@ -7,8 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js",
     "client": "cd frontend && expo start --dev-client",
-    "dev": "concurrently \"npm run start\" \"npm run client\"",
-    "install-packages": "npm install && cd frontend && npm install"
+    "install-packages": "npm install && cd frontend && npm install",
+    "build-dev-android": "cd frontend && eas build --profile development --platform android",
+    "build-prod-android": "cd frontend && eas build --profile production --platform android"
   },
   "author": "Ayush kumar",
   "license": "ISC",
