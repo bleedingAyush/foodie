@@ -19,14 +19,14 @@ First of all clone this project ```bash
                        https://github.com/bleedingAyush/foodie.git
 ```
 
-Go to the project directory```bash
+Go to the project directory ```bash
             cd foodie
 ```
 
 Install dependencies
 
 
-```bash
+``` bash
   npm run install-packages
 ```
 
