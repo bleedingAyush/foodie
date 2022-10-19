@@ -15,7 +15,7 @@ Link to dev and prod builds
 
 ## Run Locally
 
-First of all clone this project ```bash
+First of all clone this project ``` bash
                        https://github.com/bleedingAyush/foodie.git
 ```
 
