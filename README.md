@@ -19,7 +19,16 @@ Link to dev and prod builds
 
 **Products**
 
+![Screenshot_20221019_131229](https://user-images.githubusercontent.com/66837202/196639790-77e07fdf-4962-4d19-b2ed-0cc019010663.jpg)
+
+**Cart**
+
+![Screenshot_20221019_131236](https://user-images.githubusercontent.com/66837202/196639887-23441f06-397a-436f-8258-962c2eb8edcc.jpg)
+
+
 **Profile**
+
+![Screenshot_20221019_131243](https://user-images.githubusercontent.com/66837202/196639825-bd089b02-585f-4eb0-ae74-45cdbb4c5a8a.jpg)
 
 
 ## Run Locally
