@@ -10,7 +10,6 @@ import { Alert, ToastAndroid } from "react-native";
 
 firebase.appCheck().activate("ignored_param", false);
 
-// remeber to add react-native-webview, why did you re render, redux devtools extension
 // eas build --profile development --platform android
 // eas build --profile production --platform android
 
