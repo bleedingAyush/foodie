@@ -15,7 +15,7 @@ Link to dev and prod builds
 
 **Phone Authentication**
 
-![WhatsApp Image 2022-10-19 at 1 40 27 PM](https://user-images.githubusercontent.com/66837202/196637389-f2c85fb7-b98b-4f36-9be2-49b1188bded3.jpeg)
+![Screenshot_20221019_131146](https://user-images.githubusercontent.com/66837202/196639330-65916b0a-8a52-4c32-a9d7-66f8cceb2852.jpg)
 
 **Products**
 
