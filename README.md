@@ -13,6 +13,19 @@ A food delivery app made with React-native, Expo and Firebase.
 ## Demo
 Link to dev and prod builds
 
+**Phone Authentication**
+
+![](https://user-images.githubusercontent.com/66837202/196636164-116b4e5e-4c3d-4243-99f9-cf20b5e1250f.jpeg)
+
+**Products**
+
+![](https://user-images.githubusercontent.com/66837202/196636433-6600dcf6-8c10-48a9-bdde-a0c36e80db82.jpeg)
+
+**Profile**
+
+![](https://user-images.githubusercontent.com/66837202/196636515-6cc2a1d2-5929-4a23-9823-b96080f09e98.jpeg)
+
+
 ## Run Locally
 
 First of all clone this project 
