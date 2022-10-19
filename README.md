@@ -15,15 +15,11 @@ Link to dev and prod builds
 
 **Phone Authentication**
 
-![](https://user-images.githubusercontent.com/66837202/196636164-116b4e5e-4c3d-4243-99f9-cf20b5e1250f.jpeg)
+![WhatsApp Image 2022-10-19 at 1 40 27 PM](https://user-images.githubusercontent.com/66837202/196637389-f2c85fb7-b98b-4f36-9be2-49b1188bded3.jpeg)
 
 **Products**
 
-![](https://user-images.githubusercontent.com/66837202/196636433-6600dcf6-8c10-48a9-bdde-a0c36e80db82.jpeg)
-
 **Profile**
-
-![](https://user-images.githubusercontent.com/66837202/196636515-6cc2a1d2-5929-4a23-9823-b96080f09e98.jpeg)
 
 
 ## Run Locally
