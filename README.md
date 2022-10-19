@@ -31,7 +31,7 @@ Install dependencies
 
 
 ```
-  npm run install-packages
+npm run install-packages
 ```
 
 Register for an account at [Expo](https://expo.io/) and [Firebase](https://firebase.google.com/)
