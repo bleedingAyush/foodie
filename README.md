@@ -15,18 +15,15 @@ Link to dev and prod builds
 
 ## Run Locally
 
-First of all clone this project ``` bash
-                       https://github.com/bleedingAyush/foodie.git
+First of all clone this project ```https://github.com/bleedingAyush/foodie.git
 ```
 
-Go to the project directory ```bash
-            cd foodie
-```
+Go to the project directory ```cd foodie ```
 
 Install dependencies
 
 
-``` bash
+```
   npm run install-packages
 ```
 
