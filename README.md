@@ -75,4 +75,6 @@ To run firebase-admin on a custom server you need to give it certain keys. I hav
 You may be running your dev client in a mobile device for that instead of localhost url like `http://localhost:5000`, change it to `http://<your-ip>:5000` so the mobile can fetch data from the port 5000 on your computer.
 Note: Your phone and PC needs to be connected to the same network. 
 
+In eas-build when you are deploying your app in production you need to perform one additional step in order for environment variables to work succesfully that is to create a secret with the same names as in the .env files. [Learn more](https://docs.expo.dev/guides/environment-variables/)
+
 `API_URL`: E.g. `http://<your-ip-address>:<PORT>`
