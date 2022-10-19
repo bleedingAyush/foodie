@@ -11,7 +11,7 @@ A food delivery app made with React-native, Expo and Firebase.
 **Database**: Firebase/Firestore
 
 ## Demo
-Link to dev and prod builds
+Link to Production build apk [Google Drive Link](https://drive.google.com/file/d/1eI18qpumJZMc30Ap09XpKFPRFfyafocT/view?usp=sharing)
 
 **Phone Authentication**
 
