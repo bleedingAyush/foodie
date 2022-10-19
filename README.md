@@ -33,6 +33,7 @@ Link to Production build apk [Google Drive Link](https://drive.google.com/file/d
 
 ## Run Locally
 
+
 First of all clone this project 
 
 ```
@@ -52,13 +53,28 @@ Install dependencies
 npm run install-packages
 ```
 
+
 Register for an account at [Expo](https://expo.io/) and [Firebase](https://firebase.google.com/)
 
 Initialize the project with eas-build [Learn more](https://docs.expo.dev/build/introduction/)
 
+
+Create a development build first to check wether it is working.
+
+```
+npm run build-dev-android
+```
+
+Start the dev-client
+
+```
+npm run client
+```
+
+
 **Backend**
 
-**PORT**: E.g. 5000
+`PORT`: E.g. 5000
 
 To run firebase-admin on a custom server you need to give it certain keys. I have listed them below. Read this medium article to [learn more](https://medium.com/litslink/firebase-admin-sdk-basics-in-examples-ee7e009a1116)
 
