@@ -15,8 +15,7 @@ Link to dev and prod builds
 
 ## Run Locally
 
-First of all clone this project ```https://github.com/bleedingAyush/foodie.git
-```
+First of all clone this project ```https://github.com/bleedingAyush/foodie.git```
 
 Go to the project directory ```cd foodie ```
 
